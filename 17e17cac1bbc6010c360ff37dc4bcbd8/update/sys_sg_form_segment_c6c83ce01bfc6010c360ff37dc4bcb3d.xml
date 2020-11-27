@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">cec83ce01bfc6010c360ff37dc4bcb38</embedded_screen>
+        <form display_value="Shopping Item Form Screen">c2c83ce01bfc6010c360ff37dc4bcb38</form>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-27 03:32:54</sys_created_on>
+        <sys_id>c6c83ce01bfc6010c360ff37dc4bcb3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping List" source="x_550842_shopping">17e17cac1bbc6010c360ff37dc4bcbd8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">17e17cac1bbc6010c360ff37dc4bcbd8</sys_scope>
+        <sys_update_name>sys_sg_form_segment_c6c83ce01bfc6010c360ff37dc4bcb3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-27 03:32:54</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>
